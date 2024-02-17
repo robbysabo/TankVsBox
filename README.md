@@ -1,7 +1,5 @@
 # Controls
-WASD or Arrow Keys
-
-Up Moves forward. Down moves backwards.
+WASD or Arrow Keys \nUp Moves forward. Down moves backwards.
 
 Left and Right Rotate.
 
